@@ -1,0 +1,5 @@
+On-device AI files in this folder
+- model.N.js: sentence-transformers/all-MiniLM-L6-v2 (Apache License 2.0), exported to ONNX and packaged by the npm package @xcidos/genesis-memory-model (Apache-2.0), converted to 8-bit integers for this project and stored as text (base64) in pieces so it loads from a double-click and uploads to GitHub in the browser.
+- data.js: the model's WordPiece vocabulary and embeddings of this app's place descriptions.
+- ort/: onnxruntime-web 1.22.0 runtime (MIT License).
+- enabled.js: marker that tells the page the AI files are present. If the ai folder is deleted the AI button hides itself.
