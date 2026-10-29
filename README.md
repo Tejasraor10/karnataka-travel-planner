@@ -1,6 +1,6 @@
 # Karnataka Travel Planner
 
-**Kannada Digital Innovation Hackathon 2026** (HackerRank Campus Crew, NIE Mysuru) · Individual entry by [Your name], [Your college]
+**Kannada Digital Innovation Hackathon 2026** (HackerRank Campus Crew, NIE Mysuru) · Individual entry by Tejas Rao R VIDYA MANDIR  
 
 **Problem statement chosen: 6. AI Travel Planner for Karnataka**
 *Develop an AI-powered travel planner that creates personalized Karnataka itineraries based on a traveller's interests, available time, budget, and preferred type of experience.*
