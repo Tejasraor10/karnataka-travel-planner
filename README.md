@@ -6,7 +6,7 @@
 *Develop an AI-powered travel planner that creates personalized Karnataka itineraries based on a traveller's interests, available time, budget, and preferred type of experience.*
 
 - **Live demo:** https://tejasraor10.github.io/karnataka-travel-planner/
-- **Demo video:** 
+- **Demo video:** https://youtu.be/3sP0drdfFh8?si=U-nlKd5WEznyBASh
 - **No login is needed.** There are no API keys, passwords or secrets in this repository, so no `.env.example` is required.
 
 ## What it does
